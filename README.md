@@ -1,5 +1,5 @@
 # Pacmen Excercise
-<img src= "PacMan1.png" img width='300'/>
+<img src= "PacMan1.png"/>
 ## Description
 This code will cause a Pacman animation to move back and forth to each side of the screen by clicking on the image.
 
