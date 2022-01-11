@@ -1,7 +1,7 @@
 # Pacmen Excercise
 <html>
   <head>
-<img src= "PacMan1.png"/>
+<img src= "pacmanportfoliopic.jpeg"/>
   </head>
   </html>
 ## Description
